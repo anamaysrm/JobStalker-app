@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "1067799398941",
+    "firebase_url": "https://srmp-1d725.firebaseio.com",
+    "project_id": "srmp-1d725",
+    "storage_bucket": "srmp-1d725.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067799398941:android:a603c8f243dbb404",
+        "android_client_info": {
+          "package_name": "com.srm.anamay.placements"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067799398941-3eqoi92hf0u3e5p9oodqrou1901gi32o.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.srm.anamay.placements",
+            "certificate_hash": "03cfc92f14b1fc4168cbb020c843d66620278809"
+          }
+        },
+        {
+          "client_id": "1067799398941-eodllhvbkbsg1obfrv1rncel6uam39rq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.srm.anamay.placements",
+            "certificate_hash": "4f6411797308ee2a0fb341057c7d7d8518ec8227"
+          }
+        },
+        {
+          "client_id": "1067799398941-50d8t4nd21f5b09v1a7gl3hhfj8boec7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-l-x7Dkup4kMTmd4-yiGrlPQ_ciZHx8c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1067799398941-50d8t4nd21f5b09v1a7gl3hhfj8boec7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
